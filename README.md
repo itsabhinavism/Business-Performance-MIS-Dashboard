@@ -1,39 +1,51 @@
-# Business Performance MIS Dashboard 📊
+# Business Performance MIS Dashboard (Excel) 📊
 
-An end-to-end **Excel-based MIS (Management Information System) dashboard** project that demonstrates a complete analytics workflow — from **raw data → cleaned dataset → pivot tables → analysis → interactive dashboard**.
+An Excel-based **Business Intelligence & Reporting dashboard** built to **monitor sales performance**, track **KPIs vs targets**, and generate **actionable insights** from operational datasets.
 
-## Files in this Repo
-- **Workbook:** `Business Performance MIS Dashboard.xlsx`
-- **Screenshots:** `images/`
-  - `images/Cleaned Data.png`
-  - `images/Pivot Table.png`
-  - `images/Analysis.png`
-  - `images/Dashboard.png`
+## Objectives 🎯
+- Analyze **sales representative performance** and **target achievement**
+- Build an **interactive dashboard** for business reporting
+- Identify **sales trends** and operational insights
+- Automate reporting workflows using dynamic Excel features
 
-## Workflow (What I did)
-1. **Data Cleaning** — prepared a usable dataset for reporting.
-2. **Pivot Tables** — built reporting tables to summarize performance.
-3. **Analysis** — derived insights from the pivot outputs.
-4. **Dashboard** — created a single-page MIS dashboard for decision-making.
+## Tools & Technologies 🧰
+**Microsoft Excel**, Pivot Tables, Pivot Charts, **Conditional Formatting**, Data Cleaning, Dashboard Design, KPI Tracking
 
-## Previews (GitHub renders these as thumbnails) ✅
+## What’s Inside (Workbook Flow)
+- **Cleaned Data** → standardized dataset used as the reporting source  
+- **Pivot Table** → KPI aggregation layer  
+- **Analysis** → performance breakdowns & insight-ready views  
+- **Dashboard** → final MIS view for management reporting ✅
 
-### Cleaned Data
-![Cleaned Data](images/Cleaned%20Data.png)
+## Key Features ⭐
+- Interactive **KPI dashboard**
+- Sales representative performance analysis
+- **Target vs Achievement** tracking
+- Automated reporting summaries
+- Dynamic charts and slicers
 
-### Pivot Table
-![Pivot Table](images/Pivot%20Table.png)
+## Formulas & Excel Techniques Used 🧠
+- `IFERROR` — error-handling for cleaner KPI outputs
+- `SUMIF` — conditional aggregation for performance/target summaries
+- **Conditional Formatting** — highlighting trends, variance, and performance signals
 
-### Analysis
-![Analysis](images/Analysis.png)
+## Business Insights (Outcome) 🔎
+- Identified **high-performing sales regions and representatives**
+- Analyzed **target achievement percentages** across teams
+- Improved reporting visibility and decision-making insights
+
+---
 
 ### Dashboard
 ![Dashboard](images/Dashboard.png)
 
-## How to Use
-1. Download the repo (or just the `.xlsx` file)
-2. Open `Business Performance MIS Dashboard.xlsx` in Microsoft Excel
-3. Review the sheets in order: **Cleaned Data → Pivot Table → Analysis → Dashboard**
+### Analysis
+![Analysis](images/Analysis.png)
+
+### Pivot Table
+![Pivot Table](images/Pivot%20Table.png)
+
+### Cleaned Data
+![Cleaned Data](images/Cleaned%20Data.png)
 
 ---
-If you'd like, I can also share a **Power BI version** of the same dashboard flow (data model + DAX + visuals). 🚀
